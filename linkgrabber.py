@@ -1,3 +1,5 @@
+# Version 1 of a simple url grabber
+
 import re, urllib2
   
 #for user to input url
